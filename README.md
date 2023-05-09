@@ -1,8 +1,7 @@
 ## Hey :) 
-I'm a brazillian Game and Web Development student.
+I'm a brazillian Game Development student.
 
-- Studying Digital Games at [UniRitter](https://www.uniritter.edu.br);
-- Studying Web Development at [#TeuFuturo](https://teufuturo.io);
+- Studying Digital Games at [FEEVALE](https://www.feevale.br/graduacao/jogos-digitais);
 
 ### Social media  & portfolio
 
