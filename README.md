@@ -1,7 +1,8 @@
 ## Hey :) 
 I'm a brazillian Game Development student.
 
-- Studying Digital Games at [FEEVALE](https://www.feevale.br/graduacao/jogos-digitais);
+- :notebook: Studying Digital Games at [FEEVALE](https://www.feevale.br/graduacao/jogos-digitais);
+- :briefcase:	Working at [Wondernaut Studio](https://wondernautstudio.com) as Unity developer;
 
 ### Social media  & portfolio
 
