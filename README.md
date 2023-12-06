@@ -8,3 +8,5 @@ I'm a brazillian Game Development student.
 
 <a target="_blank" href="https://www.linkedin.com/in/thiagojat/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="https://thiagojose.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+<a target="_blank" href="https://twitter.com/m_thiagoJAT"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
